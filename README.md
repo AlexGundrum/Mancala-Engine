@@ -40,7 +40,7 @@ Mancala is a strategic board game where players take turns moving seeds from one
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AlexGundrum/Mancala-Engine
+   git clone https://github.com/AlexGundrum/Mancala-Engine.git
    ```
 2. Compile C++ Code using C++ compiler (g++ for example):
    ```bash
